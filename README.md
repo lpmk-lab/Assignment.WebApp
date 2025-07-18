@@ -1,6 +1,6 @@
 # 🛒 Product Management System
 
-This is an ASP.NET Core MVC application using **Entity Framework Core (Database-First)**. It allows users to manage products through a web interface, backed by stored procedures in SQL Server.
+This is an ASP.NET Core MVC application using **Dapper (Database-First)**. It allows users to manage products through a web interface, backed by stored procedures in SQL Server.
 
 ---
 
